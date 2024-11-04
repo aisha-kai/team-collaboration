@@ -9,3 +9,4 @@ Ayesha is our team Leader
 New line added
 hello i am also a member of this team
 this is my fault
+resolved conflicts
