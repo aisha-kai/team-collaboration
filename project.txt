@@ -10,3 +10,4 @@ New line added
 hello i am also a member of this team
 this is my fault
 resolved conflicts
+errors are successfully resolved.
